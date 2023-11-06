@@ -2,6 +2,21 @@
 
 Welcome to the Customer Web Chat Support App repository! This MERN stack application includes a support dashboard and a client widget with an interactive UI/UX, making it a perfect solution for real-time customer support through web chat. This README will guide you through the process of building and running the application.
 
+**Add-on feature:** Interactive UI
+
+
+For Support Agent
+![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/26db08e4-4462-4c5b-b8a1-4ff89952d667)
+
+
+For User
+
+
+
+![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/769efcde-349a-40c5-802b-2016c9cc05aa)
+
+
+
 ## Building and Running
 
 To get started with the Customer Web Chat Support App, follow these steps:
