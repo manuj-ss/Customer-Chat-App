@@ -6,14 +6,16 @@ Welcome to the Customer Web Chat Support App repository! This MERN stack applica
 
 
 For Support Agent
-![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/26db08e4-4462-4c5b-b8a1-4ff89952d667)
+![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/6b5155fd-e737-4546-8d3f-992be87f69d5)
+
 
 
 For User
 
 
 
-![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/769efcde-349a-40c5-802b-2016c9cc05aa)
+![image](https://github.com/manuj-ss/Customer-Chat-App/assets/96734632/3150ed2b-0b5b-46e2-80df-d0d491560b18)
+
 
 
 
